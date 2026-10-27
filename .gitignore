@@ -1,0 +1,10 @@
+# 缓存文件（运行期生成）
+.cache_*.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 日志与临时文件
+*.log
+.env
